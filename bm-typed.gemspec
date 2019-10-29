@@ -23,6 +23,6 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'rspec', '~> 3'
   gem.add_development_dependency 'rubocop', '0.59.2'
 
-  gem.add_dependency 'activesupport', '~> 5.2'
+  gem.add_dependency 'activesupport', '~> 6.0'
   gem.add_dependency 'dry-logic', '~> 0.4.2'
 end
